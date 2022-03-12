@@ -1,0 +1,57 @@
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine(@"
+If I don't have you with me, I'm alone
+You know I never know which way to go
+I think I need you with me for all-time
+When I need new direction for my mind
+You listen to my lectures on the phone
+You help me find the treasure in the hole
+You'll tell me if I'm acting like a fool
+I know that you're not something to lose, now
+");
+
+Console.WriteLine(@"I've got something to confess
+I keep you in my pocket to use
+You're my only compass
+I might get lost without you
+(Could you tell me where to go?
+");
+
+Console.ForegroundColor = ConsoleColor.Red;
+
+Console.WriteLine(@"You're always there to help me when I'm down
+I'm lucky you've been keeping me around
+You're the star I look for every night
+When it's dark, you'll stick right by my side
+");
+
+Console.WriteLine(@"I've got something to confess
+I keep you in my pocket to use (I keep you in my pocket)
+You're my only compass (Yeah)
+I might get lost without you
+");
+
+Console.ResetColor();
+
+Console.WriteLine(@"Like a magnet
+Hard to imagine ever changing
+Ever changing my way, baby
+Like a magnet
+Can't help that I'm attracted to you, I am
+Could you keep on guiding me? Please
+");
+
+Console.ForegroundColor = ConsoleColor.Red;
+Console.WriteLine(@"I've got something to confess
+I keep you in my pocket to use
+You're my only compass
+I might get lost without you
+(I might get lost without you)
+I've got something to confess
+I might get lost without you
+You're my only compass
+I might get lost without you
+");
+Console.ResetColor();
+
+
